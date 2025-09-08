@@ -73,7 +73,7 @@ I specialize in front-end development and love transforming design concepts into
 <img src="./asset/giphy.gif" width="5%" /> 
 ## :chart_with_upwards_trend: GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chayanon-Pond&layout=compact&theme=dark) ![Chayanon-Pond's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chayanon-Pond&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chayanon-Pond&layout=compact&theme=dark)                   ![Chayanon-Pond's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chayanon-Pond&show_icons=true&theme=dark)
 
 
 ## Preferences
