@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 
 # ~  👋 Hello and Welcome — I'm So Glad You're Here!   😄 ~
 
-<img src="./asset/cover.png"  width="100%" /> 
-<img src="./asset/giphy.gif" width="5%" /> 
-
 Hi! I'm Chayanon — but you can call me Pond.
 I'm a Software Developer who’s passionate about crafting meaningful, intuitive user experiences.
 
