@@ -73,7 +73,7 @@ I specialize in front-end development and love transforming design concepts into
 <img src="./asset/giphy.gif" width="5%" /> 
 ## :chart_with_upwards_trend: GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meowmerry&layout=compact&hide=css&langs_count,reactjs,typeScript=15&title_color=f9f9f9&text_color=CFDAFF&bg_color=001634&icon_color=EBF6FF)](https://github.com/Meowmerry/Meowmerry)
+![Chayanon-Pond's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chayanon-Pond&show_icons=true&theme=dark)
 
 ## Preferences
 
