@@ -59,6 +59,7 @@ I specialize in front-end development and love transforming design concepts into
 ![database-mongodb](https://img.shields.io/badge/Database-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=f9f9f9&color=001634)
 <!-- ![tools-sonarqube](https://img.shields.io/badge/Tools-SonarQube-informational?style=for-the-badge&logo=sonarqube&logoColor=f9f9f9&color=001634) -->
 ![tools-figma](https://img.shields.io/badge/Tools-Figma-informational?style=for-the-badge&logo=figma&logoColor=f9f9f9&color=001634)
+![tools-docker](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&logoColor=f9f9f9&color=001634)
 
 
 
